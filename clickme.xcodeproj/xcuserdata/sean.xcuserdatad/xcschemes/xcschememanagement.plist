@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>clickme-ios-app.xcscheme</key>
+		<key>clickme.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>147E6B7A1DB065F300CF3C87</key>
+		<key>142053DF1DB070C00088A820</key>
 		<dict>
 			<key>primary</key>
 			<true/>

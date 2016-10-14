@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "147E6B7A1DB065F300CF3C87"
-               BuildableName = "clickme-ios-app.app"
-               BlueprintName = "clickme-ios-app"
-               ReferencedContainer = "container:clickme-ios-app.xcodeproj">
+               BlueprintIdentifier = "142053DF1DB070C00088A820"
+               BuildableName = "clickme.app"
+               BlueprintName = "clickme"
+               ReferencedContainer = "container:clickme.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "147E6B7A1DB065F300CF3C87"
-            BuildableName = "clickme-ios-app.app"
-            BlueprintName = "clickme-ios-app"
-            ReferencedContainer = "container:clickme-ios-app.xcodeproj">
+            BlueprintIdentifier = "142053DF1DB070C00088A820"
+            BuildableName = "clickme.app"
+            BlueprintName = "clickme"
+            ReferencedContainer = "container:clickme.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "147E6B7A1DB065F300CF3C87"
-            BuildableName = "clickme-ios-app.app"
-            BlueprintName = "clickme-ios-app"
-            ReferencedContainer = "container:clickme-ios-app.xcodeproj">
+            BlueprintIdentifier = "142053DF1DB070C00088A820"
+            BuildableName = "clickme.app"
+            BlueprintName = "clickme"
+            ReferencedContainer = "container:clickme.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "147E6B7A1DB065F300CF3C87"
-            BuildableName = "clickme-ios-app.app"
-            BlueprintName = "clickme-ios-app"
-            ReferencedContainer = "container:clickme-ios-app.xcodeproj">
+            BlueprintIdentifier = "142053DF1DB070C00088A820"
+            BuildableName = "clickme.app"
+            BlueprintName = "clickme"
+            ReferencedContainer = "container:clickme.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

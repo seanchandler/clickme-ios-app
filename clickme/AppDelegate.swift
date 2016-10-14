@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  clickme-ios-app
+//  clickme
 //
 //  Created by Sean on 10/13/16.
 //  Copyright © 2016 Sean Chandler. All rights reserved.

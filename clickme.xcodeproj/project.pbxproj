@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		147E6B7F1DB065F400CF3C87 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147E6B7E1DB065F400CF3C87 /* AppDelegate.swift */; };
-		147E6B811DB065F400CF3C87 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147E6B801DB065F400CF3C87 /* ViewController.swift */; };
-		147E6B841DB065F400CF3C87 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 147E6B821DB065F400CF3C87 /* Main.storyboard */; };
-		147E6B861DB065F400CF3C87 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 147E6B851DB065F400CF3C87 /* Assets.xcassets */; };
-		147E6B891DB065F400CF3C87 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 147E6B871DB065F400CF3C87 /* LaunchScreen.storyboard */; };
+		142053E41DB070C00088A820 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 142053E31DB070C00088A820 /* AppDelegate.swift */; };
+		142053E61DB070C00088A820 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 142053E51DB070C00088A820 /* ViewController.swift */; };
+		142053E91DB070C00088A820 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 142053E71DB070C00088A820 /* Main.storyboard */; };
+		142053EB1DB070C00088A820 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 142053EA1DB070C00088A820 /* Assets.xcassets */; };
+		142053EE1DB070C00088A820 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 142053EC1DB070C00088A820 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		147E6B7B1DB065F400CF3C87 /* clickme-ios-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "clickme-ios-app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		147E6B7E1DB065F400CF3C87 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		147E6B801DB065F400CF3C87 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		147E6B831DB065F400CF3C87 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		147E6B851DB065F400CF3C87 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		147E6B881DB065F400CF3C87 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		147E6B8A1DB065F400CF3C87 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		142053E01DB070C00088A820 /* clickme.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = clickme.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		142053E31DB070C00088A820 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		142053E51DB070C00088A820 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		142053E81DB070C00088A820 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		142053EA1DB070C00088A820 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		142053ED1DB070C00088A820 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		142053EF1DB070C00088A820 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		147E6B781DB065F300CF3C87 /* Frameworks */ = {
+		142053DD1DB070C00088A820 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,72 +35,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		147E6B721DB065F300CF3C87 = {
+		142053D71DB070C00088A820 = {
 			isa = PBXGroup;
 			children = (
-				147E6B7D1DB065F400CF3C87 /* clickme-ios-app */,
-				147E6B7C1DB065F400CF3C87 /* Products */,
+				142053E21DB070C00088A820 /* clickme */,
+				142053E11DB070C00088A820 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		147E6B7C1DB065F400CF3C87 /* Products */ = {
+		142053E11DB070C00088A820 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				147E6B7B1DB065F400CF3C87 /* clickme-ios-app.app */,
+				142053E01DB070C00088A820 /* clickme.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		147E6B7D1DB065F400CF3C87 /* clickme-ios-app */ = {
+		142053E21DB070C00088A820 /* clickme */ = {
 			isa = PBXGroup;
 			children = (
-				147E6B7E1DB065F400CF3C87 /* AppDelegate.swift */,
-				147E6B801DB065F400CF3C87 /* ViewController.swift */,
-				147E6B821DB065F400CF3C87 /* Main.storyboard */,
-				147E6B851DB065F400CF3C87 /* Assets.xcassets */,
-				147E6B871DB065F400CF3C87 /* LaunchScreen.storyboard */,
-				147E6B8A1DB065F400CF3C87 /* Info.plist */,
+				142053E31DB070C00088A820 /* AppDelegate.swift */,
+				142053E51DB070C00088A820 /* ViewController.swift */,
+				142053E71DB070C00088A820 /* Main.storyboard */,
+				142053EA1DB070C00088A820 /* Assets.xcassets */,
+				142053EC1DB070C00088A820 /* LaunchScreen.storyboard */,
+				142053EF1DB070C00088A820 /* Info.plist */,
 			);
-			path = "clickme-ios-app";
+			path = clickme;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		147E6B7A1DB065F300CF3C87 /* clickme-ios-app */ = {
+		142053DF1DB070C00088A820 /* clickme */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 147E6B8D1DB065F400CF3C87 /* Build configuration list for PBXNativeTarget "clickme-ios-app" */;
+			buildConfigurationList = 142053F21DB070C00088A820 /* Build configuration list for PBXNativeTarget "clickme" */;
 			buildPhases = (
-				147E6B771DB065F300CF3C87 /* Sources */,
-				147E6B781DB065F300CF3C87 /* Frameworks */,
-				147E6B791DB065F300CF3C87 /* Resources */,
+				142053DC1DB070C00088A820 /* Sources */,
+				142053DD1DB070C00088A820 /* Frameworks */,
+				142053DE1DB070C00088A820 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "clickme-ios-app";
-			productName = "clickme-ios-app";
-			productReference = 147E6B7B1DB065F400CF3C87 /* clickme-ios-app.app */;
+			name = clickme;
+			productName = clickme;
+			productReference = 142053E01DB070C00088A820 /* clickme.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		147E6B731DB065F300CF3C87 /* Project object */ = {
+		142053D81DB070C00088A820 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
 				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = "Sean Chandler";
 				TargetAttributes = {
-					147E6B7A1DB065F300CF3C87 = {
+					142053DF1DB070C00088A820 = {
 						CreatedOnToolsVersion = 8.0;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 147E6B761DB065F300CF3C87 /* Build configuration list for PBXProject "clickme-ios-app" */;
+			buildConfigurationList = 142053DB1DB070C00088A820 /* Build configuration list for PBXProject "clickme" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -108,54 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = 147E6B721DB065F300CF3C87;
-			productRefGroup = 147E6B7C1DB065F400CF3C87 /* Products */;
+			mainGroup = 142053D71DB070C00088A820;
+			productRefGroup = 142053E11DB070C00088A820 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				147E6B7A1DB065F300CF3C87 /* clickme-ios-app */,
+				142053DF1DB070C00088A820 /* clickme */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		147E6B791DB065F300CF3C87 /* Resources */ = {
+		142053DE1DB070C00088A820 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				147E6B891DB065F400CF3C87 /* LaunchScreen.storyboard in Resources */,
-				147E6B861DB065F400CF3C87 /* Assets.xcassets in Resources */,
-				147E6B841DB065F400CF3C87 /* Main.storyboard in Resources */,
+				142053EE1DB070C00088A820 /* LaunchScreen.storyboard in Resources */,
+				142053EB1DB070C00088A820 /* Assets.xcassets in Resources */,
+				142053E91DB070C00088A820 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		147E6B771DB065F300CF3C87 /* Sources */ = {
+		142053DC1DB070C00088A820 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				147E6B811DB065F400CF3C87 /* ViewController.swift in Sources */,
-				147E6B7F1DB065F400CF3C87 /* AppDelegate.swift in Sources */,
+				142053E61DB070C00088A820 /* ViewController.swift in Sources */,
+				142053E41DB070C00088A820 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		147E6B821DB065F400CF3C87 /* Main.storyboard */ = {
+		142053E71DB070C00088A820 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				147E6B831DB065F400CF3C87 /* Base */,
+				142053E81DB070C00088A820 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		147E6B871DB065F400CF3C87 /* LaunchScreen.storyboard */ = {
+		142053EC1DB070C00088A820 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				147E6B881DB065F400CF3C87 /* Base */,
+				142053ED1DB070C00088A820 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		147E6B8B1DB065F400CF3C87 /* Debug */ = {
+		142053F01DB070C00088A820 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -213,7 +213,7 @@
 			};
 			name = Debug;
 		};
-		147E6B8C1DB065F400CF3C87 /* Release */ = {
+		142053F11DB070C00088A820 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -256,25 +256,25 @@
 			};
 			name = Release;
 		};
-		147E6B8E1DB065F400CF3C87 /* Debug */ = {
+		142053F31DB070C00088A820 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "clickme-ios-app/Info.plist";
+				INFOPLIST_FILE = clickme/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "sean.clickme.clickme-ios-app";
+				PRODUCT_BUNDLE_IDENTIFIER = sean.clickme.clickme;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
-		147E6B8F1DB065F400CF3C87 /* Release */ = {
+		142053F41DB070C00088A820 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "clickme-ios-app/Info.plist";
+				INFOPLIST_FILE = clickme/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "sean.clickme.clickme-ios-app";
+				PRODUCT_BUNDLE_IDENTIFIER = sean.clickme.clickme;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -283,24 +283,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		147E6B761DB065F300CF3C87 /* Build configuration list for PBXProject "clickme-ios-app" */ = {
+		142053DB1DB070C00088A820 /* Build configuration list for PBXProject "clickme" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				147E6B8B1DB065F400CF3C87 /* Debug */,
-				147E6B8C1DB065F400CF3C87 /* Release */,
+				142053F01DB070C00088A820 /* Debug */,
+				142053F11DB070C00088A820 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		147E6B8D1DB065F400CF3C87 /* Build configuration list for PBXNativeTarget "clickme-ios-app" */ = {
+		142053F21DB070C00088A820 /* Build configuration list for PBXNativeTarget "clickme" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				147E6B8E1DB065F400CF3C87 /* Debug */,
-				147E6B8F1DB065F400CF3C87 /* Release */,
+				142053F31DB070C00088A820 /* Debug */,
+				142053F41DB070C00088A820 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 147E6B731DB065F300CF3C87 /* Project object */;
+	rootObject = 142053D81DB070C00088A820 /* Project object */;
 }
